@@ -1,0 +1,19 @@
+# requirements.txt
+"""
+google-generativeai>=0.3.0
+langchain>=0.1.0
+langchain-google-genai>=0.0.5
+langchain-community>=0.0.10
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+pandas>=1.5.0
+numpy>=1.24.0
+pydantic>=2.0.0
+fastapi>=0.100.0
+uvicorn>=0.20.0
+"""
+
+# Install command:
+# pip install -r requirements.txt
