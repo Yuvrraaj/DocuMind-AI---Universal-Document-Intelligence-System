@@ -12,12 +12,12 @@
 
 ##  Key Features
 
-- ** Universal Document Processing:** Seamlessly handles PDFs, Word documents, scanned images, emails, and text files from any domain
-- ** AI-Powered Intelligence:** Leverages Google Gemini 1.5 Flash for deep document understanding and contextual query processing
-- ** Semantic Search Engine:** Advanced vector-based content retrieval using ChromaDB for precise information extraction
-- ** Modern Responsive GUI:** Colorful, fully scrollable interface with real-time processing feedback and enhanced user experience
-- ** Smart API Optimization:** Intelligent rate limiting, response caching, and retry mechanisms for efficient resource usage
-- ** Comprehensive Analytics:** Detailed responses with confidence scoring, source attribution, and exportable structured data
+-  Universal Document Processing:** Seamlessly handles PDFs, Word documents, scanned images, emails, and text files from any domain
+-  AI-Powered Intelligence:** Leverages Google Gemini 1.5 Flash for deep document understanding and contextual query processing
+-  Semantic Search Engine:** Advanced vector-based content retrieval using ChromaDB for precise information extraction
+-  Modern Responsive GUI:** Colorful, fully scrollable interface with real-time processing feedback and enhanced user experience
+-  Smart API Optimization:** Intelligent rate limiting, response caching, and retry mechanisms for efficient resource usage
+-  Comprehensive Analytics:** Detailed responses with confidence scoring, source attribution, and exportable structured data
 
 ##  Technical Stack
 
